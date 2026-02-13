@@ -1,4 +1,4 @@
-# 👋 Olá! Eu sou o Vicenzo (vicenzocrlo)
+# 👋 Olá! Eu sou o Vicenzo
 
 Sou estudante de programação e apaixonado por tecnologia. Estou iniciando minha jornada na área de **Desenvolvimento de Software**, com foco em construir projetos práticos para evoluir minhas habilidades e montar um portfólio forte.
 Atualmente estou cursando Desenvolvimento de Software Multiplataforma na FATEC, onde fui aprovado em 7º.
